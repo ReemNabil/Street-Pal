@@ -1,2 +1,2 @@
 # Street-Pal
-I have finished the UI of the LoginActivity and SelectTrusetdContact,plz kindly check it :))!
+ Login Activity connected to mock server with progressbar,AlertDialoge when user try to close the App and Snakbar when connection Failed to try to reconnect fast and easily.
