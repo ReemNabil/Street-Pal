@@ -24,6 +24,7 @@
             android:theme="@style/AppTheme" />
         <activity android:name=".Login.LoginActivity" />
         <activity android:name=".Registration.RegisterActivity" />
+        <activity android:name=".Home.HomeActivity"></activity>
     </application>
 
 </manifest>
